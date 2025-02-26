@@ -1,2 +1,6 @@
-target
-target*
+target/debug
+target/debug/build
+target/debug/build/*
+
+target/sbf-solana-solana
+target/release
